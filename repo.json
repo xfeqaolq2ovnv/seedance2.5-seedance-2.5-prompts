@@ -1,0 +1,32 @@
+{
+  "name": "seedance-2.5-prompts",
+  "model": "seedance-2.5",
+  "alias": "seedance2.5",
+  "variant": "prompts",
+  "language": "en",
+  "description": "seedance-2.5 API (seedance2.5 / seedance 2.5): every recipe runs from $0.0961 per second (480P). Model id, prompts settings, curl and Python examples over an OpenAI-compatible gate",
+  "topics": [
+    "seedance-2-5",
+    "seedance2-5",
+    "seedance-2-5-api",
+    "seedance2-5-api",
+    "seedance-2-5-prompts",
+    "text-to-video",
+    "ai-api-gateway",
+    "apimart",
+    "openai-compatible",
+    "pay-as-you-go",
+    "per-second-pricing",
+    "api-docs"
+  ],
+  "homepage": "https://apimart.ai/model/seedance-2.5",
+  "pricing": "https://apimart.ai/pricing",
+  "keys": "https://apimart.ai/keys",
+  "snapshot": "2026-09-24",
+  "price_line": "every recipe runs from $0.0961 per second (480P)",
+  "links": {
+    "hub": "https://go.apimart.ai/k-b0a42a",
+    "pricing": "https://go.apimart.ai/k-624d04",
+    "keys": "https://go.apimart.ai/k-547359"
+  }
+}

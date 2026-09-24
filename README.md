@@ -1,7 +1,7 @@
 # seedance-2.5 API (seedance2.5) — PROMPTS guide with per-unit pricing
 
 <p align="center">
-  <img src="assets/hero.jpg" width="820" alt="seedance-2.5 sample">
+  <img src="hero.jpg" width="820" alt="seedance-2.5 sample">
 </p>
 
 > **from $0.0961 per second** — tested prompts with the exact settings and the cost of each render.
