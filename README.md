@@ -1,12 +1,12 @@
 # seedance-2.5 API (seedance2.5) — PROMPTS guide with per-unit pricing
 
 <p align="center">
-  <img src="hero.jpg" width="820" alt="seedance-2.5 sample">
+  <img src="hero.jpg" width="820" alt="sample output">
 </p>
 
 > **from $0.0961 per second** — tested prompts with the exact settings and the cost of each render.
 
-**[Model page](https://apimart.ai/model/seedance-2.5)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-b0a42a)** · **[Live pricing](https://go.apimart.ai/k-624d04)** · **[Get an API key](https://go.apimart.ai/k-547359)**
 
 Everything on this page refers to **seedance-2.5** — also written **seedance2.5**, **seedance 2.5** or **seedance-25** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 
